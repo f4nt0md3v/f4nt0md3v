@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
-- :telescope: I’m working as a Software Engineer specializing in building large scale systems.
+- :rocket: I’m working as a Software Engineer specializing in building large scale systems.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
